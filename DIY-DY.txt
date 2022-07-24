@@ -1,3 +1,4 @@
-vmess://tcp:18434889-cbfd-443e-ea2d-8f0426ab2a6a-0@172.67.238.29:443/?type=http#@SSRSUB-V13-付费推荐:suo.yt/ssrsub
-vmess://ws:aaf9f463-876e-4bfd-ed11-1c07ad830092-0@140.238.255.240:443/#@SSRSUB-V44-付费推荐:suo.yt/ssrsub
-vmess://ws+tls:6b8bacb5-75b2-4a17-9d32-3d75b100e61e-0@96.43.86.4:443/?allowInsecure=true#@SSRSUB-V80-付费推荐:suo.yt/ssrsub
+vmess://tcp:18434889-cbfd-443e-ea2d-8f0426ab2a6a-0@172.67.238.29:443/?type=http#@SSRSUB-V13-毵堧·鑲§垬:suo.yt/ssrsub
+vmess://ws:aaf9f463-876e-4bfd-ed11-1c07ad830092-0@140.238.255.240:443/#@SSRSUB-V44-毵堧·鑲§垬:suo.yt/ssrsub
+vmess://ws+tls:6b8bacb5-75b2-4a17-9d32-3d75b100e61e-0@96.43.86.4:443/?allowInsecure=true#@SSRSUB-V80-毵堧·鑲§垬:suo.yt/ssrsub
+vless://ca113670-e8c7-45a4-ac14-1096bc7df9e8@198.41.195.94:443?type=ws&security=tls&path=%2Fvless&host&sni=uk1.v2vless.xyz#sshocean-wed
